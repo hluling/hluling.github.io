@@ -59,8 +59,8 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true #, false (default)
+search_full_content      : true #, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Luling Huang"
   avatar           : "https://avatars2.githubusercontent.com/u/36576962" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Communication Researcher & Quantitative Social Scientist & CLIR Postdoctoral Fellow at Carnegie Mellon University"
+  bio              : "Communication Researcher +<br>Quantitative Social Scientist +<br>CLIR Postdoctoral Fellow at Carnegie Mellon University"
   location         : "Pittsburgh, PA, USA"
   email            : "lulinghuang.cmu.edu"
   links:
