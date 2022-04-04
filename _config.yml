@@ -125,7 +125,7 @@ author:
       url: "https://github.com/hluling"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hlulingtu"
+      #url: "https://github.com/hlulingtu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/lulinghuang"
@@ -144,7 +144,7 @@ footer:
       url: "https://github.com/hluling"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hlulingtu"
+      #url: "https://github.com/hlulingtu"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
