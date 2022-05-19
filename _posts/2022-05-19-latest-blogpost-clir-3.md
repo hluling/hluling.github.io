@@ -12,7 +12,7 @@ tags:
   - data cleaning
 ---
 
-Here is [my third blog post on my postdoctoral work.](https://www.library.cmu.edu/about/news/2022-05/energy-social-science-data-curation-series-part-3) I first brief introduce my work on energy poverty. Then, for a more specific focus on data curation, I talk about how I dealt with a tricky compressed directory structure of a big energy consumption dataset using Python.
+Here is [my third blog post on my postdoctoral work.](https://www.library.cmu.edu/about/news/2022-05/energy-social-science-data-curation-series-part-3) I first briefly introduce my work on energy poverty. Then, for a more specific focus on data curation, I talk about how I dealt with a tricky compressed directory structure of a big energy consumption dataset using Python.
 
 If you're looking for a Python code snippet to unzip a two-level zipped directory, I made it available in [this GitHub repository](https://github.com/hluling/cmulib-blog3-code) for public use under [MIT](https://github.com/hluling/cmulib-blog3-code/blob/master/LICENSE). Hit me up if you have any questions.
 
