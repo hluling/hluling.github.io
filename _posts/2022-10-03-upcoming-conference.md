@@ -18,6 +18,6 @@ At this year's DLF Forum (October 9-13, 2022 @ Baltimore, MD), I'm going to [pre
 
 The major tools that I use are [Dimcli](https://digital-science.github.io/dimcli/getting-started.html) (a Python client for the Dimensions Analytics API) and [Dash for Python](https://dash.plotly.com/installation) (a Python library for creating interactive data web applications).
 
-This work showcases how [the Univeristy Libraries](https://www.library.cmu.edu/) provide data service to specific institutions on campus.
+This work showcases how [the Univeristy Libraries](https://www.library.cmu.edu/) provide data service to facilitate knowledge discovery and research collaboration at specific institutions on campus.
 
 More details of this project can be found in [this blogpost](https://www.library.cmu.edu/about/news/2022-03/energy-social-science-data-curation-1).
