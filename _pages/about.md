@@ -9,4 +9,4 @@ Luling's research examines different organizing principles in processes of chang
 
 At CMU, he's writing [a blog series on the data curation work during his postdoctoral fellowship](https://www.library.cmu.edu/site-search?search=luling+huang&submit=submit). He was a graduate research fellow at the Scholars Studio (formerly known as Digital Scholarship Center) at the Temple University library. During his time working at the Scholars Studio, he taught and [wrote about various methods in digital humanities and computational social sciences](https://sites.temple.edu/tudsc/author/tuf15333/).
 
-When he's not doing research or coding, he's busy deciphering Viktor Vaughn and digging those old Stretch & Bobbito tapes.
+When he's not doing research or coding, he's busy stepping up his game in Fantasy Premiere League, deciphering Viktor Vaughn, and digging old Stretch & Bobbito tapes.
