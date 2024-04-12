@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "Luling Huang"
   avatar           : "https://avatars2.githubusercontent.com/u/36576962" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Communication Researcher +<br>Quantitative Social Scientist +<br>CLIR Postdoctoral Fellow at Carnegie Mellon University"
-  location         : "Pittsburgh, PA, USA"
-  email            : "lulinghuang.cmu.edu"
+  bio              : "Communication Researcher +<br>Digital Media Educator<br><br>Assistant Professor of Communication<br>Missouri Western State University"
+  #location         : "Pittsburgh, PA, USA"
+  email            : "lhuang@missouriwestern.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
