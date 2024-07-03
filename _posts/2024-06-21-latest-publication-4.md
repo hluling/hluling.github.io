@@ -17,7 +17,7 @@ tags:
   - speech recognition
 ---
 
-Will making the mechanisms underlying facial recognition and speech recognition systems transparent in social robots work for or against users? Here is [our latest publication in New Media & Society.](https://doi.org/10.1177/14614448241256899).
+Will making the mechanisms underlying facial recognition and speech recognition systems transparent in social robots work for or against users? Here is [our latest publication in New Media & Society.](https://doi.org/10.1177/14614448241256899)
 
 Many thanks to my collaborators Dr. Kun Xu, Xiaobei Chen, and Fanjiu Liu.
 

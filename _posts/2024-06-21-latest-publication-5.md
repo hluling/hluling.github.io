@@ -17,6 +17,10 @@ tags:
 
 This is our latest article on energy limiting behavior (defined as the case when households are not able to meet their basic energy needs at home due to financial stress). Whereas we've found [the empirical evidence of such a behavior,](https://doi.org/10.1016/j.enpol.2023.113748) in this latest piece, we investigated how the public in the U.S. values the inequality in energy limiting behavior across income groups. This is recently published in *Energy Economics* titled [Estimating the income-related inequality aversion to energy limiting behavior in the United States.](https://doi.org/10.1016/j.eneco.2024.107716)
 
+You can see the full text via this link for 50 days (valid from July 1, 2024): https://authors.elsevier.com/a/1jMFLW3fc%7E46P
+
+You can also [find the accepted version of the manuscript here.]({{"/assets/papers/main_accepted_manuscript.docx" | absolute_url }})
+
 Based on the extended concentration index in welfare economics, we adopted a technique from behavioral economics to elicit the *income-related inequality aversion* using a choice experiment. Here are what we found:
 
 * Participants show a pro-poor propensity.
